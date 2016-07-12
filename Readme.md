@@ -1,4 +1,4 @@
-GoodBye demo
+GoodBye demo change
 ------------
 
 This project demonstrates the motivations to use a circuit-break for REST endpoints.
